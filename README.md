@@ -1,0 +1,1 @@
+An interactive financial performance dashboard designed in Microsoft Power BI to deliver deep analytical visibility into Karmix Tech’s operational metrics. Combining robust data modeling, dynamic DAX measures, and synchronized cross-filtering, the project enables stakeholders to easily explore granular revenue drivers, expense structures, and period-over-period growth.
